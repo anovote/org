@@ -1,0 +1,200 @@
+# Agenda
+
+## Anovote
+
+- Buy domain ?
+  - anovote.io ? 450-600 kr for a year
+  - Can not buy .vote domain - requires to have a "clearly identified political/democratic process at the time of registration"
+
+### Frontend
+
+#### APP
+
+**CODE**
+
+- Do we need an APP?
+- App software - multi platform?
+  - Flutter (Dart)
+  -  ReactNative( JS)
+  - Xamarin( C#)
+  - Corodva(JS)
+  - NativeScript (JS)
+
+**FEATURES**
+
+- Cast vote :D 
+- Use WebSockets for realtime 
+- Login / authenticate using different options
+  - No registration!
+  - By link and token
+  - QR code
+  - Code (token?)
+  - Phone number?
+- See results of each vote if enabled by vote caster
+- Can close and open app and persist session :D 
+- Must not get timed out after X seconds :D 
+
+#### WEB
+
+**CODE**
+
+- Code and framework?
+  - React, Vue, Angular, None?
+  - Typescript ?
+  - C# ?
+  - SASS/SCSS ?
+
+**FEATURES**
+
+- Admin panel for vote creators
+
+  - Create new vote
+
+    - Types:
+      - One vote on subject
+      - Rankings
+    - Multiple votes in a vote session
+      - Each vote can be differtent type ^
+
+  - Invites / joining
+
+    - Invite people by email
+    - Invite by SMS
+    - Share link
+    - Can be password or non password protected
+    - Scan QR code
+    - By code
+
+  - See casted votes results
+
+    - Create PDF export
+    - Mail result
+
+  - See current vote results in real time
+
+    - WebSocket for realtime
+    - Graphs?
+    - Broadcast results?
+
+  - Login / Logout
+
+  - Profile
+
+    - Change pw
+
+    - Change email
+
+      
+
+### backend
+
+**CODE**
+
+- Language and framework
+  - Dart ?
+  - C# (.net core) ?
+  - Java ( Jakarta EE / springboot )? 
+  - JS/TS
+    - NodeJS / Deno  (Express, Sail )?
+  - Python ? 
+    - FastAPI ?
+    - Flask? 
+
+**FEATURES**
+
+### Database
+
+SQL or NoSQL or both ?
+
+## Structure
+
+- Vacation / break
+  - What do we do if we need / want a break ?
+- Not able to meet for Meetings,Sprint planing, Reviews?
+  - Provide legit reason?
+  - Punishment? Buy beer for the team?
+- We all must write logs?
+  - For validating our contribution to the project
+- Planning
+  - GitHub Project
+    - Backlog
+    - Selected
+    - In prograss
+    - Done
+- Sprints
+  - Frequency?
+    - Weekly?
+    - 2 Weeks?
+  - Where to write sprint retro?
+  - Can we start/move on task if we comple all tasks before sprint is due?
+  - GitHub does not support Story Points by default
+    - Ignore points?
+    - Write it on top of task?
+- Documentation
+  - GitHub WIKI
+  - 
+
+## GIT
+
+- Git FLOW ?
+  - https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+  - Master = release
+  - Develop = "stable" / beta
+  - Other branches for develop
+  - Commit message structure?
+    - **Fix** bug in remote code
+    - **Add** unit test for validation
+    - **Update** dev dependecies
+    - **Remove** old unused code
+    - **Refactor** the best class there is
+  - Rebasing before mergig
+    - CAN BE DANGEROUS IF MULTIPLE ARE WORKING ON SAME BRANCH AS WE ALTER HISTORY
+    - To fix commit message
+    - Squash, or delete commits
+- Multiple Reops or single repo?
+
+## Editors and style
+
+- Settle on an editor to use
+  - If we choose different editors, we have to have EQUAL Formaters!!!!!
+- Settle on code style > brackets, comments ....
+
+## Server/Cloud
+
+- Which cloud service should we go for?
+  - AWS, Google, Azure, DigitalOcean : combination?
+- Pricing?
+  - Azure and AWS can be pricy
+- Student accounts?
+  - AWS and Azure provides student accounts with credits
+  - Google is cheap (almost Free) for low data usage
+- Docker?
+- App Serivce?
+- Virtual machines?
+
+## Testing/validation
+
+- Unit testing (Single piece of code - class, function etc)
+  - We need unit testing: select a framework for the language we are to use
+  - Should be run on deployment
+  - 
+- Integration testing (Testing if things work together )
+  - 
+- GUI testing (Is the gui working on state change, looks alright, etc..)
+  - Mostly manual process when creating
+- API testing
+  - POSTMAN
+    - https://www.postman.com/automated-testing/
+    - Can share a collection for API endpoints in a Colab group
+      - Every one can access the same created endpoints
+    - Can run automated tests
+    - Variables
+    - Testing localy
+- GitHub Action
+  - Used to run UnitTests
+  - Used to run Style checks
+  - Used before Integrate (Merge into Master)
+    - Unit tests
+    - Style check
+    - Integration test
+  - Used run after integrate to Deoply (Launch master on servers / ship new release)
