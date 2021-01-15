@@ -5,4 +5,6 @@
   - Talk about what you need help with or what you think is difficult
 - Arne is sceptical to our rule of not picking from the backlog. He suggest we would discuss this problem at the standups when someone are done with their tasks. The backlog is prioritized, therefor it should be possible to start at new tasks.
 - Arne suggest we should iterate the process in broader scale (gantt schart). He talks about including design, development, testing in each and every sprint, .
-
+- Budget estimation; find estimated expenses for servers and domain by 22.01
+  - 3000-4000 kr
+- Crash course with Arne in Visual Paradime/UML on Tuesday 19.01.2021
