@@ -54,5 +54,6 @@
 - Cloud servers, price tbd, need to know how our data flow is going to be before we can calculate price
 
 ### Help with generating different UML diagrams
+
 Arne has earlier showcased UML software. Could we get a crashcourse and an introduction of how to use it effectivly? 
 
