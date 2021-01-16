@@ -98,8 +98,18 @@ const labels = [
   // OTHER TASKS
   {
     name: 'documentation',
-    color: '#cd05fe',
+    color: '#CD05FE',
     description: 'This needs documentation'
+  },
+  {
+    name: 'research',
+    color: '#C9F2E0',
+    description: 'Task requires research'
+  },
+  {
+    name: 'writing',
+    color: '#FFAA00',
+    description: 'Report, meeting agenda etc..'
   }
 ]
 
