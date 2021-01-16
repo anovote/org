@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# File requires execution privileges
+# chmod +x ./ano
+
+deno run --allow-write ./scripts/doccreator/main.ts $1
