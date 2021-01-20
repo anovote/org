@@ -2,11 +2,15 @@
 
 
 
-#### Voter
-
-- A voter can register himself to an election
-- A voter can view the options of a ballot
-- A voter can cast his vote.
-
-
+| Title                                                        | Steps                                                        | Extension                                                    |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| A voter can join a election                                  | 1. The voter receives a code or QR code<br />2. The voter uses the code or QR code to join the election | N/A                                                          |
+| A voter can cast a vote                                      | 1. The voter join a election <br />2. The voter picks his/her candidates for each ballot <br />3. The voter casts his/her vote with their filled out ballots | 3a. The voter confirms if the vote is filled out correctly.  |
+| A election organizer can register to the election system     | 1. The election organizer enters the registration page<br />2. The election organizer chooses if he/she wants to either login or logout<br />3. The election organizer then either is granted or revoked access to the election system. |                                                              |
+| A election organizer can create an election                  | 1. The election organizer enters the create election page<br />2. The election organizer creates an election consisting of ballots and ballot candidates.<br />3. The election organizer saves the created election. |                                                              |
+| A election organizer can edit a created election             | 1. The election organizer enters the saved elections page.<br />2. The election organizer chooses which election he/she wants to edit.<br />3. The election organizer edits the chosen election.<br />4. The election organizer saves the edited election. |                                                              |
+| A election organizer can start an election                   | 1. The election organizer enters the saved elections page<br />2. The election organizer chooses which election he/she wants to start.<br />3. The election organizer starts the election. | 3a. The election authority has to authorize the start of the election before the <br />election organizer can start the election. |
+| The election authority can view the results of completed elections | 1. The election authority enters the completed elections page.<br />2. The election authority chooses which completed election he/she wants to view.<br />3. The election authority views the result of a completed election. |                                                              |
+| The election authority can generate reports from completed elections | 1. The election authority enters the completed elections page.<br />2. The election authority chooses which completed election he/she wants to generate a report from.<br />3. The election authority generates a report on his/her preferred file format<br />4. The election authority saves the generated report. |                                                              |
+| The election authority can authorize elections               | 1. The election authority enters the election which is requested for authorization.<br />2. The election authority reviews the election<br />3. The election authority either accepts or rejects the election and notifies the election organizer. | 1a. The election authority is notified by the an election organizer that the election organizer want to start an election. |
 
