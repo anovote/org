@@ -20,7 +20,7 @@
 
 # Actions
 
-- [ ] Take some more breaks
-- [ ] Add more cards/issues to backlog continuously
-- [ ] Book room to have meetings
+- [x] Take some more breaks
+- [x] Add more cards/issues to backlog continuously
+- [x] Book room to have meetings
 
