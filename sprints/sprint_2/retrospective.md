@@ -18,6 +18,6 @@
 
 # Actions
 
-- [ ] Create more issues
-- [ ] Quicker reviews of PRs
+- [x] Create more issues
+- [x] Quicker reviews of PRs
 
