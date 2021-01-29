@@ -110,6 +110,11 @@ const labels = [
     name: 'writing',
     color: '#FFAA00',
     description: 'Report, meeting agenda etc..'
+  },
+  {
+    name: 'user story',
+    color: '#e84393',
+    description: 'Story for how a user interacts with the application'
   }
 ]
 
