@@ -7,15 +7,18 @@
 
 ## Retrospective
 
-| What went well                                               | What could improve                                |
-| ------------------------------------------------------------ | ------------------------------------------------- |
-|  |  |
-|  |  |
-|  |  |
+| What went well                                   | What could improve           |
+| ------------------------------------------------ | ---------------------------- |
+| Meeting on time                                  | Plan more work               |
+| Inclusive work environment                       | More breaks                  |
+| Able to find relevant task when all work is done | Make more clear sprint goals |
+| Test PR' during review                           |                              |
+| Commit messages are on point                     |                              |
+| Constructive arguments                           |                              |
 
 # Actions
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Set up more issues
+- [ ] Have clearer sprint goals
+- [ ] Minimum one break before and after lunch, for leg stretching and carrot eating (Elton)
 
