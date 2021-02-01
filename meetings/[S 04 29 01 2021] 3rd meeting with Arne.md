@@ -1,4 +1,3 @@
-
 # Summary 29/01/2021
 
 **Attendees:** *Steffen Holanger, Emil Elton, Sander Hurlen, Christoffer Træen, Arne Styve, Arne Styve*

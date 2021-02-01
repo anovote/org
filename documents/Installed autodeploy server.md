@@ -10,3 +10,4 @@
 - Added members to `sudo` and `docker` group
 
 - Changed firewall https://askubuntu.com/questions/910402/how-to-allow-only-ssh-and-internet-access-with-iptables
+
