@@ -18,7 +18,7 @@
 
 # Actions
 
-- [ ] Set up more issues
-- [ ] Have clearer sprint goals
-- [ ] Minimum one break before and after lunch, for leg stretching and carrot eating (Elton)
+- [x] Set up more issues
+- [x] Have clearer sprint goals
+- [x] Minimum one break before and after lunch, for leg stretching and carrot eating (Elton) 
 
