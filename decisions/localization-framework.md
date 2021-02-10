@@ -63,7 +63,7 @@ import React from 'react';
 import { useTranslation } from 'react-i18next';
 
 function MyComponent () {
-  const { t, i18n } = useTranslation();
+  const [ t, i18n ] = useTranslation(); // i18n is not required. Only to i18n.changeLanguage('no') if you need that
   return <h1>{t('Welcome to React')}</h1>
 }
 ```
