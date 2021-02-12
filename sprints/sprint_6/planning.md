@@ -19,5 +19,14 @@ Goal: Error handling
 
 - unit tests
 - Getting design ready to be implemented
-- 
+
+
+
+
+
+![sprint_6-top](/Users/sanderhurlen/GitHub/bachelor/org/sprints/sprint_6/sprint_6-top.png)
+
+
+
+![sprint_6-btm](/Users/sanderhurlen/GitHub/bachelor/org/sprints/sprint_6/sprint_6-btm.png)
 
