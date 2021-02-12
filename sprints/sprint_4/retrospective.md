@@ -18,7 +18,7 @@
 
 # Actions
 
-- [ ] Minimum one break before and after lunch, for leg stretching.
+- [x] Minimum one break before and after lunch, for leg stretching.
 - [ ] Minimum one test before starting to code on issue
 - [ ] Stick to task, add issues
 

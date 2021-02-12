@@ -1,5 +1,7 @@
 # Sprint 5
 
+Num of points: 44
+
 ## Plan
 
 **Backend:**
