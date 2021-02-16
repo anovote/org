@@ -5,6 +5,7 @@ all important files, folders, information or useful links we may depend on in ou
 ## Quick Links
 * [Frontend repo](https://github.com/anovote/frontend)
 * [Backend repo](https://github.com/anovote/backend)
+* [Workboard](https://github.com/orgs/anovote/projects/1)
 
 ## How its organized
 The wiki is organized in the [org repository itself](https://github.com/anovote/org).
@@ -22,4 +23,4 @@ The wiki is organized in the [org repository itself](https://github.com/anovote/
 
 ## Our progess
 
-To keep track of our progess, we use the github project board for our organization. [The workboard can be found here](https://github.com/orgs/anovote/projects/1)
+To keep track of our progess, we use the github project board for our organization. 
