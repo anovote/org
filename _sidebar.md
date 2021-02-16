@@ -1,0 +1,7 @@
+- Anovote
+  - decisions
+    - [localization framework](/decisions/localization-framework.md)
+  - documents
+    - [Installed autodeploy server](/documents/Installed_autodeploy_server.md)
+  - [meetings](/meetings/)
+  - [sprints](/sprints/)
