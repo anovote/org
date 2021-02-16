@@ -7,7 +7,7 @@ all important files, folders, information or useful links we may depend on in ou
 * [Backend repo](https://github.com/anovote/backend)
 
 ## How its organized
-The wiki is organized in the ```org``` repository itself.
+The wiki is organized in the [org repository itself](https://github.com/anovote/org).
 
 - desicions
 > contains documents describing a crucial decision we have made. The decision itself can be a summary or include a agenda
