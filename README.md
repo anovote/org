@@ -20,7 +20,3 @@ The wiki is organized in the [org repository itself](https://github.com/anovote/
 > this catalog stores all the sprints. The retrospective, review and planning is stored under seperate folders here.
 - diagrams
 > diagrams we create are being stored in this folder. 
-
-## Our progess
-
-To keep track of our progess, we use the github project board for our organization. 
