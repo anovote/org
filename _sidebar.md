@@ -9,6 +9,7 @@
   - [meetings](/meetings/)
   - resources
     - [design](/resources/design.md)
+    - [diagrams](/resources/diagrams.md)
     - [documentation links](/resources/documentation-links.md)
     - [terminology used in anovote](/resources/terminology-used-in-anovote.md)
   - [sprints](/sprints/)
