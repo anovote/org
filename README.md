@@ -2,6 +2,10 @@
 Welcome to the wiki for the anovote organization. This repository contains 
 all important files, folders, information or useful links we may depend on in our bachelor thesis.
 
+## Quick Links
+* [Frontend repo](https://github.com/anovote/frontend)
+* [Backend repo](https://github.com/anovote/backend)
+
 ## How its organized
 The wiki is organized in the ```org``` repository itself.
 
