@@ -16,8 +16,8 @@
 
 # Actions
 
-- [ ] Take more breaks.
-- [ ] Communicate early if you are not able to finish tasks
-- [ ] Stick to task, add issues
-- [ ] Set up issues channel with communication reminders
+- [x] Take more breaks.
+- [x] Communicate early if you are not able to finish tasks
+- [x] Stick to task, add issues
+- [x] Set up issues channel with communication reminders
 
