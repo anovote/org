@@ -19,9 +19,9 @@
 
 # Actions
 
-- [ ] Distribute tasks more evenly
-- [ ] Follow GitHub Actions checks when publishing your pr
-- [ ] Plan for Sjusjøen trip
+- [x] Distribute tasks more evenly
+- [x] Follow GitHub Actions checks when publishing your pr
+- [x] Plan for Sjusjøen trip
   - [ ] 🍱🍔
   - [ ] 🍷
   - [ ] 🍻
