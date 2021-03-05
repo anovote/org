@@ -18,8 +18,8 @@
 
 # Actions
 
-- [ ] Take breaks (go skiing, take a walk)
-- [ ] Drink a beer
-- [ ] Eat dinner together
-- [ ] Make sure we use our prioritization of tasks in backlog
+- [x] Take breaks (go skiing, take a walk)
+- [x] Drink a beer
+- [x] Eat dinner together
+- [x] Make sure we use our prioritization of tasks in backlog
 

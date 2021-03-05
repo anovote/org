@@ -7,15 +7,15 @@
 
 ## Retrospective
 
-| What went well                                               | What could improve                                |
-| ------------------------------------------------------------ | ------------------------------------------------- |
-|  |  |
-|  |  |
-|  |  |
+| What went well             | What could improve |
+| -------------------------- | ------------------ |
+| Incubator                  | Order of tasks     |
+| Sociallizing               |                    |
+| Skiing                     |                    |
+| Coding while on "vacation" |                    |
 
 # Actions
 
-- [ ] 
-- [ ] 
+- [ ] Stretching once an hour
 - [ ] 
 
