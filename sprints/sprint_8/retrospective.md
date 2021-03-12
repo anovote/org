@@ -16,6 +16,6 @@
 
 # Actions
 
-- [ ] Stretching once an hour
+- [x] Stretching once an hour
 - [ ] 
 
