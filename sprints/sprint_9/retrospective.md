@@ -17,7 +17,7 @@
 
 # Actions
 
-- [ ] Take time off project to focus on the exam / other things for next week
-- [ ] Less points for the next weeks
+- [x] Take time off project to focus on the exam / other things for next week
+- [x] Less points for the next weeks
 - [ ] Include tests as part of task estimation
 
