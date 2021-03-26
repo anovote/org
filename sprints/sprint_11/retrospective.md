@@ -13,7 +13,6 @@
 | Preparing for exam                                          |                                                              |
 | Very good job last night, preparing the MVP                 |                                                              |
 | Overall good collaboration in a busy week. Reached our goal |                                                              |
-
 # Actions
 
 - [ ] Happy easter 🐣
