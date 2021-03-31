@@ -22,3 +22,27 @@
     - [planning](/sprints/sprint_6/planning.md)
     - [retrospective](/sprints/sprint_6/retrospective.md)
     - [review](/sprints/sprint_6/review.md)
+  - sprint 7
+    - [planning](/sprints/sprint_7/planning.md)
+    - [retrospective](/sprints/sprint_7/retrospective.md)
+    - [review](/sprints/sprint_7/review.md)
+  - sprint 8
+    - [planning](/sprints/sprint_8/planning.md)
+    - [retrospective](/sprints/sprint_8/retrospective.md)
+    - [review](/sprints/sprint_8/review.md)
+  - sprint 9
+    - [planning](/sprints/sprint_9/planning.md)
+    - [retrospective](/sprints/sprint_9/retrospective.md)
+    - [review](/sprints/sprint_9/review.md)
+  - sprint 10
+    - [planning](/sprints/sprint_10/planning.md)
+    - [retrospective](/sprints/sprint_10/retrospective.md)
+    - [review](/sprints/sprint_10/review.md)
+  - sprint 11
+    - [planning](/sprints/sprint_11/planning.md)
+    - [retrospective](/sprints/sprint_11/retrospective.md)
+    - [review](/sprints/sprint_11/review.md)
+  - sprint 12
+    - [planning](/sprints/sprint_12/planning.md)
+    - [retrospective](/sprints/sprint_12/retrospective.md)
+    - [review](/sprints/sprint_12/review.md)
