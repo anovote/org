@@ -1,4 +1,3 @@
-
 # Summary Meeting with Arne 12/03/2021
 
 **Attendees:** *Emil Elton Nilsen, Christoffer Træen, Sander Hurlen, Arne Styve, Steffen Holanger (ref)*
