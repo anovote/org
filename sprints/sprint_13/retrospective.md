@@ -15,6 +15,6 @@
 
 # Actions
 
-- [ ] Be more "online" and accessible to help when working over discord
+- [x] Be more "online" and accessible to help when working over discord
 - [ ] 
 
