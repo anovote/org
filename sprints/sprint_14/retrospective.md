@@ -16,7 +16,7 @@
 
 # Actions
 
-- [ ] If you create a todo in the codebase -> you must create an issue and tag it with the commit
+- [x] If you create a todo in the codebase -> you must create an issue and tag it with the commit
 - [ ] 
 - [ ] 
 
