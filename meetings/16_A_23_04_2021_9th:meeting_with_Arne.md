@@ -1,5 +1,4 @@
-
-# Agenda 23/04/2021
+# Agenda 23/04/2021 9th meeting with Arne
 
 Retro of last two weeks:
 
@@ -18,4 +17,7 @@ Questions
 ### Report questions
 
 - When does he want the first revision?
+- Hva bør vi vektlegge på resultatdel
+
+
 
