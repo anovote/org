@@ -2,6 +2,34 @@
   - sprint 1
     - [retrospective](/sprints/sprint_1/retrospective.md)
     - [review](/sprints/sprint_1/review.md)
+  - sprint 10
+    - [planning](/sprints/sprint_10/planning.md)
+    - [retrospective](/sprints/sprint_10/retrospective.md)
+    - [review](/sprints/sprint_10/review.md)
+  - sprint 11
+    - [planning](/sprints/sprint_11/planning.md)
+    - [retrospective](/sprints/sprint_11/retrospective.md)
+    - [review](/sprints/sprint_11/review.md)
+  - sprint 12
+    - [planning](/sprints/sprint_12/planning.md)
+    - [retrospective](/sprints/sprint_12/retrospective.md)
+    - [review](/sprints/sprint_12/review.md)
+  - sprint 13
+    - [planning](/sprints/sprint_13/planning.md)
+    - [retrospective](/sprints/sprint_13/retrospective.md)
+    - [review](/sprints/sprint_13/review.md)
+  - sprint 14
+    - [planning](/sprints/sprint_14/planning.md)
+    - [retrospective](/sprints/sprint_14/retrospective.md)
+    - [review](/sprints/sprint_14/review.md)
+  - sprint 15
+    - [planning](/sprints/sprint_15/planning.md)
+    - [retrospective](/sprints/sprint_15/retrospective.md)
+    - [review](/sprints/sprint_15/review.md)
+  - sprint 16
+    - [planning](/sprints/sprint_16/planning.md)
+    - [retrospective](/sprints/sprint_16/retrospective.md)
+    - [review](/sprints/sprint_16/review.md)
   - sprint 2
     - [planning](/sprints/sprint_2/planning.md)
     - [retrospective](/sprints/sprint_2/retrospective.md)
@@ -34,15 +62,3 @@
     - [planning](/sprints/sprint_9/planning.md)
     - [retrospective](/sprints/sprint_9/retrospective.md)
     - [review](/sprints/sprint_9/review.md)
-  - sprint 10
-    - [planning](/sprints/sprint_10/planning.md)
-    - [retrospective](/sprints/sprint_10/retrospective.md)
-    - [review](/sprints/sprint_10/review.md)
-  - sprint 11
-    - [planning](/sprints/sprint_11/planning.md)
-    - [retrospective](/sprints/sprint_11/retrospective.md)
-    - [review](/sprints/sprint_11/review.md)
-  - sprint 12
-    - [planning](/sprints/sprint_12/planning.md)
-    - [retrospective](/sprints/sprint_12/retrospective.md)
-    - [review](/sprints/sprint_12/review.md)
