@@ -21,6 +21,8 @@
   - CI / CD
   - Quality vs quantity
   - Teamwork
+  - Issues and pull requests
+    - Code review 
 
   
 
